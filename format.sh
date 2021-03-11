@@ -1,0 +1,1 @@
+astyle --delete-empty-lines --add-brackets --convert-tabs --style=ansi --indent=spaces=2 --min-conditional-indent=0  --unpad-paren --indent-switches --break-blocks --pad-oper --pad-header --align-pointer=name --align-reference=name --break-after-logical *.c *.h
